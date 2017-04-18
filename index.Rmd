@@ -1,9 +1,9 @@
 ---
-title       : Red Media, Blue Media
-subtitle    : Evidence of Ideological Selectivity in Media Use
+title       : Priming Effects
+subtitle    : COMM372, Spring 2017
 author      : MJ Cho
-job         : COMM 272 Presentation
-logo        : RedBlue.jpg
+job         : COMM 372 Report
+logo        : Stanford.jpg
 framework   : io2012               # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js         # {highlight.js, prettify, highlight}
 hitheme     : tomorrow             # 
@@ -24,16 +24,16 @@ ul.nav li::before { content: ""; }
 ul.nav li{ font-size: 18px; line-height: 24px;}
 </style>
 
-## Research Questions
+## Definitions
 
->- 1. Are consumers of online news exercising selectivity in their news choices?
-   - The partisan polarization hypothesis: active selectivity and motivated exposure
-   - How strong is the tendency of the partisans to self-select into distinct audiences?
->- 2. Does the news content matter?
-   - Hard vs. soft news
-   - Is the effect of selectivity stronger for subjects where partisan divisions are intense?
->- 3. Doe attentiveness matter?
-   - The more attentive vs. the less attentive and the partisans vs. the nonpartisans
-   - Political interest$*$partisanship
-
+>- 1. A general definition in psychology: Priming refers to the nonconscious/implicit memory effect in which a response to stimulus is influenced by other perceptual patterns in memory. (WIKI + Psychology Today)
+   - Associated patterns in memory is easier to activate: colors vs. fruits; issues vs. political parties.
+   - Some related concepts: positive vs. negative priming (ERM); perceptual vs. conceptual (modality vs. semantic) 
+   - A "priming paradigm": has important implications in numerous fields and topics. eg. aging, education, political science, media studies, etc.
+   - Issues on scientific integrity: replication, bias, unconstructive progress. 
+>- 2. A very specific, media politics definition: "Priming refers to the capacity of the media to isolate particular issues, events, or themes in the news as criteria for evaluating politicians." (Ansolabehere, Behr, and Iyengar, 1993).
+   - An example of the application of pyschological concepts in media studies and political science.
+   - Perceived importantce of issues vs. impact on opinions and evaluations.
+   - Historically, an extension to the agenda setting effects.
+   
 --- #Why1
