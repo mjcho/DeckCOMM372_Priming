@@ -3,7 +3,7 @@ title       : Priming Effects
 subtitle    : COMM372, Spring 2017
 author      : MJ Cho
 job         : COMM 372 Report
-logo        : Stanford.jpg
+logo        : Stanford.gif
 framework   : io2012               # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js         # {highlight.js, prettify, highlight}
 hitheme     : tomorrow             # 
